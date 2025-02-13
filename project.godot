@@ -26,3 +26,7 @@ version_control/autoload_on_startup=true
 [editor_plugins]
 
 enabled=PackedStringArray("res://addons/oaid/plugin.cfg")
+
+[rendering]
+
+textures/vram_compression/import_etc2_astc=true
