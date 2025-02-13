@@ -1,4 +1,5 @@
-![icon](icon.svg)
+<img src="icon.svg" alt="icon" width="128"/>
+
 # Godot OAID SDK
 Godot 安卓导出插件，用于接入 [Android_CN_OAID](https://github.com/gzu-liyujiang/Android_CN_OAID) 并提供包装类。
 
