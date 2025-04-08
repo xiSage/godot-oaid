@@ -32,7 +32,7 @@ class AndroidExportPlugin extends EditorExportPlugin:
 						"name" : "oaid/version",
 						"type" : TYPE_STRING,
 					},
-					"default_value" : "4.2.11"
+					"default_value" : "4.2.12"
 				}
 			]
 		else:
