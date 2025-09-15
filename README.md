@@ -1,6 +1,8 @@
 <img src="icon.svg" alt="icon" width="128"/>
 
 # Godot OAID SDK
+[![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fgodotengine.org%2Fasset-library%2Fapi%2Fasset%2F3784&query=%24.version_string&logo=godotengine&label=asset%20library&labelColor=333639)](https://godotengine.org/asset-library/asset/3784)
+
 Godot 安卓导出插件，用于接入 [Android_CN_OAID](https://github.com/gzu-liyujiang/Android_CN_OAID) 并提供包装类。
 
 本插件使用了 Godot 4.4 修复后的 JavaClassWrapper 以及新增的对 Android 运行时的访问功能。
